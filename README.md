@@ -19,11 +19,11 @@ A web-based movie search engine that allows users to search for movies and view 
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MovieSearchEngine.git
+git clone https://github.com/codebasebo/Movie-Search-Engine
 ```
 2. Navigate to the project directory
 ```bash
-cd MovieSearchEngine/frontend
+cd src
 ```
 3. Open `index.html` in your browser
 
